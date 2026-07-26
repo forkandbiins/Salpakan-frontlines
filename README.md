@@ -105,7 +105,7 @@ All music used in this project belongs to their respective creators and is credi
 
 Developed by the project group behind Salpakan: Frontlines.
 
-- Barnuevo, Charles L.
+- Barnuevo, Charles Lawrence S.
 - Benauro, Pascual B.
 - Clor, Ashley D.
 - Macalalad, Abdullah F.
